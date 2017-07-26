@@ -16,4 +16,4 @@ User Story: I can see thumbnail images of different projects the portfolio creat
 User Story: I navigate to different sections of the webpage by clicking buttons in the navigation.
 
 Codepen link:
-https://codepen.io/ttse/pen/LLoRPO
+https://codepen.io/ttse/full/LLoRPO/
